@@ -2,8 +2,9 @@
 
 This is an audio processing application that allows users to process a sound file. The features include:
 - Basic playback controls
+- Option to select between live microphone input or pre-recorded audio file
 - Option to record
-- Low Pass filter controls
+- Low Pass, High pass, Band pass filter controls
 - Reverb controls
 - Dynamic Compressor controls
 - Waveshaper Distortion controls
